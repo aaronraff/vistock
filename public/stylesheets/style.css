@@ -6,3 +6,25 @@ body {
 a {
   color: #00B7FF;
 }
+
+.jumbo {
+  padding-top: 20%;
+}
+
+#search-bar {
+  border: none;
+  border-bottom: 2px #BDBDBD solid;
+  width: 40%;
+  outline: none;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#created {
+  color: #BDBDBD;
+}
